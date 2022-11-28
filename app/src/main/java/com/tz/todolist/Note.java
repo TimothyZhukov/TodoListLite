@@ -1,7 +1,6 @@
 package com.tz.todolist;
 
 public class Note {
-
     private int id;
     private String text;
     private int priority;
